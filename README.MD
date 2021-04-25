@@ -22,7 +22,7 @@ For commerial use please contact with author.
 - 1 PPM Input(TX)/Output(RX) - GPIO2
 - 7 or 8 (if PPM is disabled) PWM Input(TX)/Output(RX) - GPIO14, GPIO12, GPIO13, GPIO15, GPIO5, GPIO4, GPIO0 , GPIO2 (if PPM is disabled)
 - RSSI support (last RC channel as RSSI PWM signal: 1000ms=0%, 2000ms=100%)
-- FailSafe support (throttle RC channel (default 3) = 900ms if communication lost between TX and RX)
+- FailSafe support (throttle RC channel (default 3) = 900ms if communication losts between TX and RX)
 - Heartbeat
 
 ## Warning:
